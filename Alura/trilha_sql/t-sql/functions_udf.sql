@@ -10,4 +10,3 @@ BEGIN
    SET @PrecoComDesconto = @Preco - @Desconto
    RETURN @PrecoComDesconto
 END
-
